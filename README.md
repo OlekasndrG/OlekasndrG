@@ -33,10 +33,8 @@
 
 <br><br><br>
 
-## 📰 Social links
-<br>
- - [linkedin](https://www.linkedin.com/in/alexandr-gubskiy/)<br>
- - [telegram](https://t.me/GubskiyAlexandr)
 
 
+## 👾 GitHub widgets
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlekasndrG&" alt="Commit current streak"/>
 
