@@ -34,7 +34,7 @@
 <br><br><br>
 
 ## 📰 Social links
- - [linkedin](https://www.linkedin.com/in/alexandr-gubskiy/)
+ - [linkedin](https://www.linkedin.com/in/alexandr-gubskiy/)<br>
  - [telegram](https://t.me/GubskiyAlexandr)
 
 
