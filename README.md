@@ -1,6 +1,6 @@
 
-<p align="center"> 🏠 Hello👋, my name is Alexandr Hubskiy</p>
- With nearly a decade of experience in the logistics sphere, I recently transitioned to the dynamic field of IT, driven by a passion for tackling exacting challenges and a steadfast commitment to continuous hard work and learning. My hands-on experience includes proficiency in crafting applications with responsive user interfaces using React, complemented by implementing server-side dynamics through Node.js. My tenure as part of a collaborative team enhanced my soft skills — communication, collaboration, and adaptability — along with the ability to autonomously tackle urgent tasks and problems. Prepared to roll up my sleeves, I am eager to contribute my skills and passion to the ever-evolving landscape of opportunities.
+<p align="center"> 🏠 Hello, my name is Alexandr Hubskiy</p>
+With nearly a decade of experience in the logistics sphere, I recently transitioned to the dynamic field of IT, driven by a passion for tackling exacting challenges and a steadfast commitment to continuous hard work and learning. My hands-on experience includes proficiency in crafting applications with responsive user interfaces using React, complemented by implementing server-side dynamics through Node.js. My tenure as part of a collaborative team enhanced my soft skills — communication, collaboration, and adaptability — along with the ability to autonomously tackle urgent tasks and problems. Prepared to roll up my sleeves, I am eager to contribute my skills and passion to the ever-evolving landscape of opportunities.
 
 
 ## 📲 My Links
@@ -29,16 +29,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
+
+
+
 
 
 ## 👾 GitHub widgets
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlekasndrG&show_icons=true&locale=en&layout=compact" alt="Most used languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlekasndrG&show_icons=true&locale=en&layout=compact"  alt="Most used languages"/>
 <img src="https://github-readme-stats.vercel.app/api?username=OlekasndrG&show_icons=true&locale=en" alt="GitHub stats"/>
+
 
 
