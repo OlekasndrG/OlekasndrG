@@ -1,6 +1,6 @@
 
 <p align="center"># 🏠 Hello👋, my name is Alexandr Hubskiy</p>
-### With nearly a decade of experience in the logistics sphere, I recently transitioned to the dynamic field of IT, driven by a passion for tackling exacting challenges and a steadfast commitment to continuous hard work and learning. My hands-on experience includes proficiency in crafting applications with responsive user interfaces using React, complemented by implementing server-side dynamics through Node.js. My tenure as part of a collaborative team enhanced my soft skills — communication, collaboration, and adaptability — along with the ability to autonomously tackle urgent tasks and problems. Prepared to roll up my sleeves, I am eager to contribute my skills and passion to the ever-evolving landscape of opportunities.
+ With nearly a decade of experience in the logistics sphere, I recently transitioned to the dynamic field of IT, driven by a passion for tackling exacting challenges and a steadfast commitment to continuous hard work and learning. My hands-on experience includes proficiency in crafting applications with responsive user interfaces using React, complemented by implementing server-side dynamics through Node.js. My tenure as part of a collaborative team enhanced my soft skills — communication, collaboration, and adaptability — along with the ability to autonomously tackle urgent tasks and problems. Prepared to roll up my sleeves, I am eager to contribute my skills and passion to the ever-evolving landscape of opportunities.
 
 
 ## 📲 My Links
@@ -34,6 +34,7 @@
 <br><br><br>
 
 ## 📰 Social links
+<br>
  - [linkedin](https://www.linkedin.com/in/alexandr-gubskiy/)<br>
  - [telegram](https://t.me/GubskiyAlexandr)
 
