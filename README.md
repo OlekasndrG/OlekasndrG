@@ -46,7 +46,7 @@ With nearly a decade of experience in the logistics sphere, I recently transitio
 
 ## 👾 GitHub widgets
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlekasndrG&show_icons=true&locale=en&layout=compact"  alt="Most used languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=OlekasndrG&show_icons=true&locale=en" alt="GitHub stats"/>
+
 
 
 
